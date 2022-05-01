@@ -1,3 +1,6 @@
 [submodule "kineto"]
 	path = kineto
 	url = https://git.sr.ht/~sircmpwn/kineto
+[submodule "agate"]
+	path = agate
+	url = https://github.com/mbrubeck/agate
