@@ -10,14 +10,26 @@
 
 ### essential links
 => gemini://gemini.circumlunar.space Project Gemini main site
+=> gemini://geminiquickst.art/
+=> gemini://gemini-news.com Gemini news
+=> gemini://gemi.dev/cgi-bin/chilly.cgi Weather
+=> gemini://weather.gluonspace.com:1965/weather?Brussels Weather in Brussels
+=> gopher://gopherpedia.com/ Gopherpedia
+=> gemini://geminispace.info/ Gemini Space Info Search
+=> gemini://rawtext.club/~sloum/spacewalk.gmi Spacewalk
+=> gemini://warmedal.se/~antenna/ Antenna
+
+### fun stuff
 => gemini://kernelzechs.com kernelzechs
 => gemini://kernelzechs.com/feeds/slashdot.gmi Gemini slashdot
-=> gemini://gemini-news.com Gemini news
 => gemini://gemini.lottalinuxlinks.com Lottalinux links
+
+### hosting
+=> gemini://pollux.casa They host capsules
+=> gemini://koyu.space/info.gmi
 
 => gemini://geminispace.info Search
 => gemini://gempaper.strangled.net/mirrorlist/
-=> gemini://weather.gluonspace.com:1965/weather?Brussels
 
 ### Links from a slashdot post:
 => gemini://station.martinrue.com/ Station, which is a place to post quick thoughts.
