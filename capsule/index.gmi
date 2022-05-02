@@ -3,6 +3,8 @@
 ## My own scribbles
 ### Spice combos
 => spices/index.gmi
+### Life hacks
+=> fasting/index.gmi
 
 ## Links to other capsules
 
