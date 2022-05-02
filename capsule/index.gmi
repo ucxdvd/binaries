@@ -1,5 +1,9 @@
 # Dave's first gemtext
 
+## My own scribbles
+### Spice combos
+=> spices/index.gmi
+
 ## Links to other capsules
 
 ### essential links
@@ -11,6 +15,7 @@
 
 => gemini://geminispace.info Search
 => gemini://gempaper.strangled.net/mirrorlist/
+=> gemini://weather.gluonspace.com:1965/weather?Brussels
 
 ### Links from a slashdot post:
 => gemini://station.martinrue.com/ Station, which is a place to post quick thoughts.
