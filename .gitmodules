@@ -4,3 +4,9 @@
 [submodule "agate"]
 	path = agate
 	url = https://github.com/mbrubeck/agate
+[submodule "amfora"]
+	path = amfora
+	url = https://github.com/makeworld-the-better-one/amfora.git
+[submodule "bombadillo"]
+	path = bombadillo
+	url = https://tildegit.org/sloum/bombadillo.git
