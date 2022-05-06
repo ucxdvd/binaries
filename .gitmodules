@@ -17,5 +17,5 @@
 	path = gemget
 	url = https://github.com/makeworld-the-better-one/gemget.git
 [submodule "vydyck"]
-	path = vydyck
+	path = capsule
 	url = git@gitlab.com:ucxdvd/vydyck
