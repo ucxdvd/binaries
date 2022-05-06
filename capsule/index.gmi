@@ -1,12 +1,18 @@
-# Dave's first gemtext
+# My first gemtext
 
-## My own scribbles
-### Spice combos
-=> spices/index.gmi
-### Life hacks
-=> fasting/index.gmi
 
 ## Links to other capsules
+
+### Favorites
+* Search
+=> gopher://gopherpedia.com/ Gopherpedia, Wikipedia in gopher format
+=> http://gopherpedia.com/ Gopherpedia (HTTP)
+=> gopher://gopher.floodgap.com/1/v2 Floodgap (Veronica gopher search?)
+=> http://gopher.floodgap.com/1/v2/ Floodgap (HTTP)
+* News
+=> gemini://gemini-news.com Gemini news
+=> gemini://kernelzechs.com/feeds/slashdot.gmi Gemini slashdot
+
 
 ### essential links
 => gemini://gemini.circumlunar.space Project Gemini main site
@@ -19,19 +25,16 @@
 => gemini://rawtext.club/~sloum/spacewalk.gmi Spacewalk
 => gemini://warmedal.se/~antenna/ Antenna
 
-### fun stuff
-=> gemini://kernelzechs.com kernelzechs
-=> gemini://kernelzechs.com/feeds/slashdot.gmi Gemini slashdot
-=> gemini://gemini.lottalinuxlinks.com Lottalinux links
 
 ### hosting
 => gemini://pollux.casa They host capsules
 => gemini://koyu.space/info.gmi
 
-=> gemini://geminispace.info Search
-=> gemini://gempaper.strangled.net/mirrorlist/
 
-### Links from a slashdot post:
+### To Explore Links from a slashdot post:
+=> gemini://kernelzechs.com kernelzechs capsule, has some websites in gemini feed (eg slashdot)
+=> gemini://gemini.lottalinuxlinks.com Lottalinux links
+=> gemini://gempaper.strangled.net/mirrorlist/
 => gemini://station.martinrue.com/ Station, which is a place to post quick thoughts.
 => gemini://warmedal.se/~antenna/ Antenna, an aggregator of different capsules.
 => gemini://midnight.pub/ Midnight pub, a place to write gempages and read gempages from others.
@@ -53,6 +56,12 @@ And also check out => gemini://mozz.us itself. They have all kinds of "interesti
 => https://gitlab.com/ucxdvd/gemini Mine
 => https://git.sr.ht/~sircmpwn/kineto  Kineto is a http to gemini proxy, useful if your device has no gemini client or your local network blocks :1965
 => https://github.com/mbrubeck/agate Host your own capsule
+
+## My own scribbles
+### Spice combos
+=> spices/index.gmi
+### Life hacks
+=> fasting/index.gmi
 
 ## decent clients
 * amfora for cli (go binary)
