@@ -10,3 +10,6 @@
 [submodule "bombadillo"]
 	path = bombadillo
 	url = https://tildegit.org/sloum/bombadillo.git
+[submodule "lagrange"]
+	path = lagrange
+	url = https://github.com/skyjake/lagrange.git

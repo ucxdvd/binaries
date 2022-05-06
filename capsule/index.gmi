@@ -30,6 +30,7 @@
 
 ### hosting
 => gemini://pollux.casa They host capsules
+=> gemini://dave.pollux.casa me :-D
 => gemini://koyu.space/info.gmi
 
 
