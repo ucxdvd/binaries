@@ -1,3 +1,0 @@
-=> groenten.gmi
-=> peulvruchten.gmi
-=> spicemixes.gmi

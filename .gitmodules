@@ -13,3 +13,6 @@
 [submodule "lagrange"]
 	path = lagrange
 	url = https://github.com/skyjake/lagrange.git
+[submodule "gemget"]
+	path = gemget
+	url = https://github.com/makeworld-the-better-one/gemget.git

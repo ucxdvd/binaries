@@ -1,6 +1,0 @@
-# Debian quick howtos
-## Debian 10/11
-### accept suite change
-apt-get update --allow-releaseinfo-change
-### make yubikey visible to users
-?
