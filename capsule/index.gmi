@@ -36,6 +36,7 @@
 
 
 ### To Explore Links from a slashdot post:
+=> gemini://medusae.space 
 => gemini://kernelzechs.com kernelzechs capsule, has some websites in gemini feed (eg slashdot)
 => gemini://gemini.lottalinuxlinks.com Lottalinux links
 => gemini://gempaper.strangled.net/mirrorlist/
