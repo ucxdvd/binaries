@@ -21,6 +21,7 @@
 => gemini://geminiquickst.art/
 => gemini://gemini-news.com Gemini news
 => gemini://gemi.dev/cgi-bin/chilly.cgi Weather
+=> gemini://gemi.dev/cgi-bin/chilly.cgi/view/lon=4.351697&lat=50.8465573&name=City+of+Brussels&state=&country=BE/
 => gemini://weather.gluonspace.com:1965/weather?Brussels Weather in Brussels
 => gopher://gopherpedia.com/ Gopherpedia
 => gemini://geminispace.info/ Gemini Space Info Search
