@@ -4,11 +4,13 @@
 ## Links to other capsules
 
 ### Favorites
+
 * Search
 => gopher://gopherpedia.com/ Gopherpedia, Wikipedia in gopher format
 => http://gopherpedia.com/ Gopherpedia (HTTP)
 => gopher://gopher.floodgap.com/1/v2 Floodgap (Veronica gopher search?)
-=> http://gopher.floodgap.com/1/v2/ Floodgap (HTTP)
+=> http://gopher.floodgap.com/gopher/gw?gopher/1/v2 Floodgap (HTTP)
+
 * News
 => gemini://gemini-news.com Gemini news
 => gemini://kernelzechs.com/feeds/slashdot.gmi Gemini slashdot
