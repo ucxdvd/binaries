@@ -19,3 +19,9 @@
 [submodule "vydyck"]
 	path = capsule
 	url = git@gitlab.com:ucxdvd/vydyck
+[submodule "agena"]
+	path = agena
+	url = https://tildegit.org/solderpunk/agena
+[submodule "duckling-proxy"]
+	path = duckling-proxy
+	url = https://github.com/LukeEmmet/duckling-proxy
